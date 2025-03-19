@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//(Desoler on avait pas vu que fallait pas le faire, on va simuler qu'on l'a pas fait
+//int nb_min = int.Parse(Console.ReadLine());
 Console.WriteLine("Entrez un nb de minutes");
 int nb_min =  int.Parse(Console.ReadLine());
 int[] time = {0,0};
